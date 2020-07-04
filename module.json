@@ -3,7 +3,7 @@
   "title": "Pathfinder Bestiary",
   "description": "A collection of (almost) every monster",
   "author": "James DeVore",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.5.5",
   "packs": [
@@ -16,6 +16,6 @@
     }
   ],
   "url": "https://github.com/JamesDeVore/pf1_Bestiary",
-  "manifest": "https://raw.githubusercontent.com/JamesDeVore/runelord_data/master/module.json",
-  "download": "https://github.com/JamesDeVore/runelord_data/archive/master.zip"
+  "manifest": "https://raw.githubusercontent.com/JamesDeVore/pf1_Bestiary/master/module.json",
+  "download": "https://github.com/JamesDeVore/pf1_Bestiary/archive/master.zip"
 }
