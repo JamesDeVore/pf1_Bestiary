@@ -1,0 +1,21 @@
+{
+  "name": "pf1_Bestiary",
+  "title": "Pathfinder Bestiary",
+  "description": "A collection of (almost) every monster",
+  "author": "James DeVore",
+  "version": "1.0.3",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.5.5",
+  "packs": [
+    {
+      "name": "Bestiary",
+      "label": "Bestiary",
+      "path": "packs/bestiary.db",
+      "entity": "Actor",
+      "module": "pf1_bestiary"
+    }
+  ],
+  "url": "https://github.com/JamesDeVore/pf1_Bestiary",
+  "manifest": "https://raw.githubusercontent.com/JamesDeVore/runelord_data/master/module.json",
+  "download": "https://github.com/JamesDeVore/runelord_data/archive/master.zip"
+}
