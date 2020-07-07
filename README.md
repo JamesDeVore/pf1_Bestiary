@@ -4,4 +4,4 @@ This is a collection of monsters for the pathfinder game system, intended for us
 However this repo will contain just the db for simplicity and easy integration into foundry.
 
 
-### Note: You can find the original stat block in the biography tab for double-checking values
+### Note: You can find the original stat block in the notes tab for double-checking values
