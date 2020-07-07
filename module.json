@@ -3,14 +3,21 @@
   "title": "Pathfinder Bestiary",
   "description": "A collection of (almost) every monster",
   "author": "James DeVore",
-  "version": "1.0.0",
-  "minimumCoreVersion": "0.5.0",
+  "version": "1.1.0",
+  "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.5.5",
   "packs": [
     {
       "name": "Bestiary",
       "label": "Bestiary",
       "path": "packs/bestiary.db",
+      "entity": "Actor",
+      "module": "pf1_bestiary"
+    },
+    {
+      "name": "Bestiary",
+      "label": "Bestiary 2",
+      "path": "packs/bestiary_2.db",
       "entity": "Actor",
       "module": "pf1_bestiary"
     }

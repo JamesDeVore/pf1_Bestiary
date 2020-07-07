@@ -3,4 +3,5 @@ This is a collection of monsters for the pathfinder game system, intended for us
 
 However this repo will contain just the db for simplicity and easy integration into foundry.
 
-### Note: Spells are still a work in progress
+
+### Note: You can find the original stat block in the biography tab for double-checking values
