@@ -3,7 +3,7 @@
   "title": "Pathfinder Bestiary",
   "description": "A collection of (almost) every monster",
   "author": "James DeVore, Lavaeolous, Mana Hime",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.6.0",
   "packs": [
