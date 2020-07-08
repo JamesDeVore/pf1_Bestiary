@@ -9,14 +9,14 @@
   "packs": [
     {
       "name": "Bestiary_1",
-      "label": "Bestiary 1",
+      "label": "Bestiary CR 0-9",
       "path": "packs/bestiary_1.db",
       "entity": "Actor",
       "module": "pf1_bestiary"
     },
     {
       "name": "Bestiary_2",
-      "label": "Bestiary 2",
+      "label": "Bestiary CR 10+",
       "path": "packs/bestiary_2.db",
       "entity": "Actor",
       "module": "pf1_bestiary"
