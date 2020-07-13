@@ -3,21 +3,35 @@
   "title": "Pathfinder Bestiary",
   "description": "A collection of (almost) every monster",
   "author": "James DeVore, Lavaeolous, Mana Hime",
-  "version": "0.7.2",
+  "version": "0.8.0",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.6.0",
   "packs": [
     {
       "name": "Bestiary_1",
-      "label": "Bestiary CR 0-9",
-      "path": "packs/bestiary_1.db",
+      "label": "Bestiary 1 (CR 0-4)",
+      "path": "packs/0_4.db",
       "entity": "Actor",
       "module": "pf1_bestiary"
     },
     {
       "name": "Bestiary_2",
-      "label": "Bestiary CR 10+",
-      "path": "packs/bestiary_2.db",
+      "label": "Bestiary 2 (CR 5-10)",
+      "path": "packs/5_10.db",
+      "entity": "Actor",
+      "module": "pf1_bestiary"
+    },
+    {
+      "name": "Bestiary_3",
+      "label": "Bestiary 3 (CR 11-15)",
+      "path": "packs/11_15.db",
+      "entity": "Actor",
+      "module": "pf1_bestiary"
+    },
+    {
+      "name": "Bestiary_4",
+      "label": "Bestiary 4 (CR 16+)",
+      "path": "packs/16_plus.db",
       "entity": "Actor",
       "module": "pf1_bestiary"
     }
